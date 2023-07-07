@@ -2,3 +2,9 @@
 
 %:
 	dh $@
+
+execute_before_dh_install:
+	debian/build.sh
+
+override_dh_installchangelogs:
+	dh_installchangelogs -XHistory.md
