@@ -1,5 +1,40 @@
-template-repository (1.0-1) unstable; urgency=medium
+fonts-lxgw-wenkai (1.300+repack-2) unstable; urgency=medium
 
-  * Initial release
+  * Reupload to unstable
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- xiao sheng wen <atzlinux@sina.com>  Wed, 14 Jun 2023 15:29:53 +0800
+
+fonts-lxgw-wenkai (1.300+repack-1) experimental; urgency=medium
+
+  * New upstream version 1.300+repack
+  * d/copyright: update year info to 2023
+
+ -- xiao sheng wen <atzlinux@sina.com>  Mon, 01 May 2023 08:46:04 +0800
+
+fonts-lxgw-wenkai (1.250+repack-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream version 1.250+repack. (Closes: #1029304)
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 27 Jan 2023 21:43:51 -0500
+
+fonts-lxgw-wenkai (1.245.1+repack-1) unstable; urgency=medium
+
+  [ xiao sheng wen(肖盛文) ]
+  * New upstream version 1.245.1+repack
+
+ -- xiao sheng wen <atzlinux@sina.com>  Tue, 15 Nov 2022 22:48:14 +0800
+
+fonts-lxgw-wenkai (1.235.2+repack-2) unstable; urgency=medium
+
+  * Team upload.
+  * No change source-only upload for testing migration.
+
+ -- Boyuan Yang <byang@debian.org>  Sun, 16 Oct 2022 16:11:40 -0400
+
+fonts-lxgw-wenkai (1.235.2+repack-1) unstable; urgency=medium
+
+  [ xiao sheng wen(肖盛文) ]
+  * Initial release. (Closes: #996989)
+
+ -- xiao sheng wen <atzlinux@sina.com>  Tue, 19 Jul 2022 12:16:10 +0800
